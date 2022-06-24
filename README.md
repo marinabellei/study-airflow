@@ -5,6 +5,6 @@
 Para rodar esse projeto em sua máquina, digite:
 
 
-npm install python
+node app.js
 
 
